@@ -20,7 +20,7 @@ See the [presentation online](http://antiun.github.io/odoo-reverse-proxy-howto)
 
 ### Contributors
 
-* Antonio Espinosa <antonioea@antiun.com>
+* Antonio Espinosa <antonioea@antiun.com> (This email has changed)
 
 
 ### History
